@@ -4,17 +4,12 @@
 > 版权归原作者 rakanki911 所有；源代码沿用原始许可证，原始版权与许可声明均完整保留、未作修改。
 > All copyright belongs to the original author rakanki911; the source code keeps its original license and all copyright/permission notices unchanged.
 
-*⬇️ 网盘备份下载（微信扫码即可）/ Backup download (Quark Drive)*
-
-建议微信扫码下载：
-
+*⬇️ > **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
+> 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
+> **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
+>
+> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/DLSS5-Swapper/releases) 或 [原项目 Releases](https://github.com/rakanki911/DLSS5-Swapper/releases) 下载。
 <img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
-
-网盘链接 https://pan.quark.cn/s/8be3d7e03038
-
-本 fork 的 GitHub Releases（镜像备份）：[https://github.com/M49P6BK/DLSS5-Swapper/releases](https://github.com/M49P6BK/DLSS5-Swapper/releases)
-
-也可[前往原项目下载](https://github.com/rakanki911/DLSS5-Swapper/releases)。 / You can also [download from the original project](https://github.com/rakanki911/DLSS5-Swapper/releases).
 <p align="center">
   <img src="docs/banner.png" alt="DLSS 5 Swapper" width="100%">
 </p>

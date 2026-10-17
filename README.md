@@ -8,7 +8,7 @@
 > 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
 > **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
 >
-> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/DLSS5-Swapper/releases) 或 [原项目 Releases](https://github.com/rakanki911/DLSS5-Swapper/releases) 下载。
+> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/DLSS5-Swapper/releases) 下载。
 <img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
 <p align="center">
   <img src="docs/banner.png" alt="DLSS 5 Swapper" width="100%">

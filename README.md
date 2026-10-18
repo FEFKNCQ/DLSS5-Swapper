@@ -1,6 +1,6 @@
-> **分支声明 / Fork notice**
+> **分支声明**
 > 本仓库是 [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper) 的 fork（分支），作为原作者删除后的镜像备份。
-> This repository is a fork of [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper), kept as a mirror backup.
+
 > 版权归原作者 rakanki911 所有；源代码沿用原始许可证，原始版权与许可声明均完整保留、未作修改。
 > All copyright belongs to the original author rakanki911; the source code keeps its original license and all copyright/permission notices unchanged.
 
@@ -9,7 +9,7 @@
 > **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
 >
 > 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/DLSS5-Swapper/releases) 下载。
-<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码">
 <p align="center">
   <img src="docs/banner.png" alt="DLSS 5 Swapper" width="100%">
 </p>
